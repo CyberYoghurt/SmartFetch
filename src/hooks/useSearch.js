@@ -13,7 +13,7 @@ export default function useSearch() {
       return;
     }
     if (search === '') {
-      setError("Can't look for a movie");
+      setError("Can't look for a nameless movie");
       return;
     }
     if (search.match(/^\d+$/)) {
