@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "Nocturnal Animals",
+      "Year": "2016",
+      "imdbID": "tt4550098",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "American Animals",
+      "Year": "2018",
+      "imdbID": "tt6212478",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTc4ZWQyODItMTZjYy00OTVmLWEzMjUtNTlkOTJjMzhiYzAxXkEyXkFqcGdeQXVyODE0MDY3NzY@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Only the Animals",
+      "Year": "2019",
+      "imdbID": "tt10409498",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjJkMDgzNzUtZWQwMi00ZWNmLWJhYTMtZmRkMmEwZTM2YTg1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg"
+    },
+    {
+      "Title": "Conference of Animals",
+      "Year": "2010",
+      "imdbID": "tt1620449",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwNjE2Njc1MF5BMl5BanBnXkFtZTcwNDQ2NTk3Nw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Political Animals",
+      "Year": "2012",
+      "imdbID": "tt2239947",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjY3MjgyNl5BMl5BanBnXkFtZTcwOTc1Mjc5Nw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ricky Gervais Live: Animals",
+      "Year": "2003",
+      "imdbID": "tt0397612",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODA5MTE2Ml5BMl5BanBnXkFtZTcwMzU2MTMyMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "We the Animals",
+      "Year": "2018",
+      "imdbID": "tt7681824",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTYwOGZjMDUtZDIxOS00NDBlLWE0NGEtNmVmYzA3MTI4MDE4XkEyXkFqcGdeQXVyODE0MDY3NzY@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Animals.",
+      "Year": "2016–2018",
+      "imdbID": "tt4953128",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWQwNjE1YTAtMzJjOS00OTVlLWE2YWYtYTdiNjliYWNiZWQwXkEyXkFqcGdeQXVyNDI0MTYyNzU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "When Animals Dream",
+      "Year": "2014",
+      "imdbID": "tt2818178",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQyODgxMTkzMF5BMl5BanBnXkFtZTgwMDE5NjcyNjE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Corporate Animals",
+      "Year": "2019",
+      "imdbID": "tt8366502",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGI4NDhmMTUtNTcwMC00OTY3LWIyYTItYWM5ZjNkZGM2ZjQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "748",
+  "Response": "True"
+}
